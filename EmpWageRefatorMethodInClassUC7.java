@@ -1,5 +1,5 @@
 package empwage;
-public class EmpWageRefatorUC7 {
+public class EmpWageRefatorMethodInClassUC7 {
     public static final int FULL_TIME = 1;
     public static final int PART_TIME = 2;
     public static final int EMP_RATE_PER_HOUR = 20;
@@ -31,6 +31,6 @@ public class EmpWageRefatorUC7 {
         return totalEmpWage;
     }
     public static void main(String[] args) {
-        EmpWageRefatorUC7.refator();
+        EmpWageRefatorMethodInClassUC7.refator();
     }
 }
