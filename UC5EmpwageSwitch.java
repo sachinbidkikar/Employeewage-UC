@@ -1,6 +1,6 @@
 package empwage;
 
-public class UC4EmpwageSwitch {
+public class UC5EmpwageSwitch {
     public static final int FULL_TIME = 1;
     public static final int PART_TIME = 2;
     public static final int EMP_RATE_PER_HOUR = 20;
